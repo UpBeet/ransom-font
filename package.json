@@ -1,0 +1,19 @@
+{
+  "name": "ransom-font",
+  "version": "0.0.1",
+  "description": "A random font generator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UpBeet/ransom-font.git"
+  },
+  "author": "UpBeet and Brax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UpBeet/ransom-font/issues"
+  },
+  "homepage": "https://github.com/UpBeet/ransom-font"
+}
